@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738140098947
+current_stage: None
+description: null
+last_updated_timestamp: 1738140098947
+name: epoch_inc_digit_classifier
+run_id: d72c2537fa3a48d5a54bd64fbf6fc28c
+run_link: null
+source: file:///f:/bongoDev%20ML%20Course/000.Exercises/BongoDev%20ML%20Course%20Practise/MLflow/mlruns/900972381690289215/d72c2537fa3a48d5a54bd64fbf6fc28c/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///f:/bongoDev%20ML%20Course/000.Exercises/BongoDev%20ML%20Course%20Practise/MLflow/mlruns/900972381690289215/d72c2537fa3a48d5a54bd64fbf6fc28c/artifacts/model
+user_id: null
+version: 1

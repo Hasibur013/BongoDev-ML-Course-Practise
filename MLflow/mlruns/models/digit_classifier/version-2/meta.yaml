@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738139440932
+current_stage: None
+description: null
+last_updated_timestamp: 1738139440932
+name: digit_classifier
+run_id: fcabd4d90e734dbab3c10206164de136
+run_link: null
+source: file:///f:/bongoDev%20ML%20Course/000.Exercises/BongoDev%20ML%20Course%20Practise/MLflow/mlruns/900972381690289215/fcabd4d90e734dbab3c10206164de136/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///f:/bongoDev%20ML%20Course/000.Exercises/BongoDev%20ML%20Course%20Practise/MLflow/mlruns/900972381690289215/fcabd4d90e734dbab3c10206164de136/artifacts/model
+user_id: null
+version: 2
